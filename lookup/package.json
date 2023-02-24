@@ -1,5 +1,5 @@
 {
-  "name": "@jsonalytics/lookup",
+  "name": "@jsonalytix/lookup",
   "version": "1.0.0",
   "description": "Fetches value from target array based on the key that matches with the source array.",
   "main": "index.js",
@@ -14,5 +14,18 @@
     "object"
   ],
   "author": "Jana Rangasamy <janagr7@gmail.com>",
-  "license": "ISC"
+  "license": "GNU General Public License v3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grjan7/jsonalytics/lookup"
+  },
+  "homepage": "https://github.com/grjan7/jsonalytics#readme",
+  "bugs": {
+    "url": "https://github.com/grjan7/jsonalytics/issues"
+  },
+  "files": [
+    "index.js",
+    "lib/",
+    "tests/"
+  ]
 }

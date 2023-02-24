@@ -1,6 +1,6 @@
 {
   "name": "@jsonalytix/lookup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetches value from target array based on the key that matches with the source array.",
   "main": "index.js",
   "scripts": {
@@ -17,11 +17,11 @@
   "license": "GNU General Public License v3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grjan7/jsonalytics/lookup"
+    "url": "https://github.com/grjan7/jsonalytix/lookup"
   },
-  "homepage": "https://github.com/grjan7/jsonalytics#readme",
+  "homepage": "https://github.com/grjan7/jsonalytix#readme",
   "bugs": {
-    "url": "https://github.com/grjan7/jsonalytics/issues"
+    "url": "https://github.com/grjan7/jsonalytix/issues"
   },
   "files": [
     "index.js",

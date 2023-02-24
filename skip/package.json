@@ -1,0 +1,29 @@
+{
+  "name": "@jsonalytix/skip",
+  "version": "1.0.0",
+  "description": "Skips the number of items from the array.",
+  "main": "skip.js",
+  "scripts": {
+    "test": "node ./skip.test.js"
+  },
+  "keywords": [
+    "JSON",
+    "skip",
+    "array",
+    "objects"
+  ],
+  "author": "Jana Rangasamy <janagr7@gmail.com>",
+  "license": "GNU General Public License v3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grjan7/jsonalytix/skip"
+  },
+  "homepage": "https://github.com/grjan7/jsonalytix#readme",
+  "bugs": {
+    "url": "https://github.com/grjan7/jsonalytix/issues"
+  },
+  "files": [
+    "skip.js",
+    "skip.test.js"
+  ]
+}

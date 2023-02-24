@@ -1,0 +1,29 @@
+{
+  "name": "@jsonalytix/limit",
+  "version": "1.0.0",
+  "description": "Limits the number of items to be returned from the JSON array.",
+  "main": "limit.js",
+  "scripts": {
+    "test": "node ./limit.test.js"
+  },
+  "keywords": [
+    "JSON",
+    "limit",
+    "array",
+    "objects"
+  ],
+  "author": "Jana Rangasamy <janagr7@gmail.com>",
+  "license": "GNU General Public License v3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grjan7/jsonalytix/limit"
+  },
+  "homepage": "https://github.com/grjan7/jsonalytix#readme",
+  "bugs": {
+    "url": "https://github.com/grjan7/jsonalytix/issues"
+  },
+  "files": [
+    "limit.js",
+    "limit.test.js"
+  ]
+}

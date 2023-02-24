@@ -1,0 +1,35 @@
+{
+  "name": "@jsonalytix/core",
+  "version": "1.0.1",
+  "description": "Library of functions to analyse data from JSON objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/lookup.test.js"
+  },
+  "keywords": [
+    "lookup",
+    "JSON",
+    "array",
+    "key",
+    "object"
+  ],
+  "author": "Jana Rangasamy <janagr7@gmail.com>",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "@jsonlytic/limit": "^1.0.0",
+    "@jsonlytic/lookup": "^1.0.1",
+    "@jsonlytic/skip": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grjan7/jsonalytix/core"
+  },
+  "homepage": "https://github.com/grjan7/jsonalytix#readme",
+  "bugs": {
+    "url": "https://github.com/grjan7/jsonalytix/issues"
+  },
+  "files": [
+    "index.js",
+    "tests/"
+  ]
+}
